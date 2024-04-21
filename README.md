@@ -1,6 +1,6 @@
 # nodejs-json-to-excel
 
-# Setup
+# Project Setup
 index.js file created
 Package.json file creatred with npm init -y
 npm i json2xls
